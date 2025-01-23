@@ -1,0 +1,47 @@
+create a reporesitory
+initialize the reporesitory
+node_modules,packages.json,package-lock.json
+install express
+create a server
+listen to port 7777
+write request handlers for /test,/hello
+install nodemon and update scripts inside packages.jsonwhat are dependencies
+what is the use of "-g"while npm install
+difference between caret and tilde(^ vs~)
+
+
+initialize git
+gitignore
+create a remote repo on github
+push all code to remote origin
+play with routes and routes extension ex./hello,/hello/2,xyz
+order of the routes matter a lot
+install postman
+write logic to handle get,post ,parch ,delete api
+explore routing and use /a/,/.*fly$/
+reading the querry params in the routes
+reading the dynamic routes
+
+ multiple routes handleers-play with the code
+ next()
+ next function and errors along with res.send()
+ app.use("/route",rh.[rh2,rh3,rh4])
+ what is middleware? why do we need it?
+ how to express js basically handlers requests behind the scenes
+ difference app.use and app.all
+ write a dummy auth middlewere for admin
+ error handling using  app.use("/",(err,req,res,next){});
+
+create a free cluster on mongodb official website(mongo atlas)
+install mongoose library
+connect your application to the databas "connection-url"/devtinder
+call the connectdb function and connect to database before starting application on7777
+create  a user schema  and model
+create post /signup api calls from postman
+error handling using try ,catch
+
+
+js object vs json(difference)
+add the express.json middleware to your app
+make your signup api dynamic to recive data from the end user
+
